@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Andak</string>
+    <string name="title_activity_main">Pointeuse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="now_date">Date d\'aujourd\'hui</string>
+    <string name="pointer">Pointer</string>
+    <string name="liste_emplyes_presents">Liste des employés présents</string>
+    <string name="first_name">Nom</string>
+    <string name="last_name">Prénom</string>
+    <string name="code">Code</string>
+    <string name="create_employe_message">Cet employé est inconnu, veuillez saisir sont nom et son prénom</string>
+	<string name="operation">Opération</string>
+	<string name="operation_entree">Entrée</string>
+	<string name="operation_sortie">Sortie</string>
+	<string name="unknown_employe">Employé inconnu</string>
+	<string name="clear">Clear</string>
+	<string name="get_file">Générer le fichier de poitage</string>
+	<string name="file_created">Fichier créé avec succès</string>
+	<string name="file_not_created">La création du fichier a échouée</string>
+</resources>

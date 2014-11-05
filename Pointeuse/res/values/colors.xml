@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="error_color">#F70D1A</color>
+    <color name="entree_color">#90EE90</color>
+    <color name="Light_green">#F3FFEF</color>
+    <color name="Light_red">#FFEFEF</color>
+
+</resources>
